@@ -1,6 +1,6 @@
 # Bootcamp_ITM
 
-Day 1: 06/08/2025
+## Day 1: 06/08/2025
 
 Array: 
     use of new keyowrd.
@@ -21,7 +21,7 @@ ques 5) two sum.
 
 above prob are being solved on leetcode.
 
-Day 2: 07/08/2025
+## Day 2: 07/08/2025
 
 Topic: Prefix sum.
 
@@ -37,6 +37,8 @@ Solition explanantion of leet code 303: -
 Ques 4) prefix sum (even/odd).
 
 Ques 5) Subarray sum equal to k (leet code 560).
+
+Ques 6) same as ques 2. (plateform: scaler)
 
 
 

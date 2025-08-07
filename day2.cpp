@@ -48,7 +48,7 @@ int main() {
     
     cout<<endl;
     
-    /****** pre Fix Sum - odd/even *******/ 
+    /****** pre Fix Sum - even *******/ 
     
     int evenPreFixSum[n];
     evenPreFixSum[0] = arr[0];
@@ -61,6 +61,8 @@ int main() {
     cout<<"Even prifixSum: ";
     printArr(evenPreFixSum, n);
     
+    /****** pre Fix Sum - odd *******/ 
+
     int oddPreFixSum[n];
     oddPreFixSum[0] = 0;
     
