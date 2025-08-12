@@ -83,7 +83,45 @@ this problem can be solved by using fast & slow pointer & Floyd's cycle finding 
 [Floyd's cycle finding](https://www.geeksforgeeks.org/dsa/floyds-cycle-finding-algorithm/)
 
 
+---
+
+## Day 5: 12/86/2025
+
+Stack: 
+- used for storing function calls.
+- follow LIFO(last in first out).
+- top(), push(), pop(), peak(), isempty(), 
+
+---
+
+Ques 1) Fibonacci Number: 
+[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+
+---
+
+- Diff bet string & string buffer & string builder
+- .= & ==
+- overriding of constructor
+- desrialiation & serialzation
+- transieny keyword
+- volatile keyword
+- thread safe =?
+- array list & Linkedlist difference.
+
+---
+
+Ques 2) implementing linkedlist using stack
+
+---
+
+Ques 3) implementing stack using array.
+[GFG](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
+
+---
+
+Ques 4) Reverse the String using Stack
+[Leetcode](https://leetcode.com/problems/reverse-string/)
 
 
-
+Ques 5) 
 
