@@ -146,3 +146,34 @@ Ques 3) Kth node from end.
 Ques 4) next greater element to right.
 
 
+### Day 6: 13/08/2025
+
+Ques 1) Rotate array 
+[Leetcode 189](https://leetcode.com/problems/rotate-array/description/)
+
+---
+Ques 2) Search insert postion. 
+[Leetcode 35](https://leetcode.com/problems/search-insert-position/)
+
+---
+Ques 3) Kth node from end.
+[GFG](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+
+---
+Ques 4) next greater element to right.
+
+---
+Binary Search: works on divide & conquer technique.
+[Leetcode 704](https://leetcode.com/problems/binary-search/description/)
+
+---
+Ques 5) 1st & last postion of target.
+[Leetcode 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+
+---
+Ques 6) No: of times target element 
+
+
+---
+Ques 7) Search in rotated sorted array.
+[Leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
