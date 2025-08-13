@@ -11,15 +11,19 @@ Array:
 
 NOTE: for sorting arr in O(n) complexecity we'll use counting sort.
 
-### Ques 1) sorting of array.
+Ques 1) sorting of array.
 
-### Ques 2) sec largest element in an array.
+---
+Ques 2) sec largest element in an array.
 
-### Ques 3) missing number in the series.
+---
+Ques 3) missing number in the series.
 
-### Ques 4) move zeros.
+---
+Ques 4) move zeros.
 
-### ques 5) two sum.
+---
+ques 5) two sum.
 
 above prob are being solved on leetcode.
 
@@ -29,20 +33,25 @@ above prob are being solved on leetcode.
 
 Topic: Prefix sum.
 
-### Ques 1) Reverse an array:
+Ques 1) Reverse an array:
 
-### Ques 2) prefix Sum.
+---
+Ques 2) prefix Sum.
 
-### Ques 3) leet code ques no:303. 
+---
+Ques 3) leet code ques no:303. 
 
 Solition explanantion of leet code 303: -
 <!-- https://leetcode.com/problems/range-sum-query-immutable/solutions/1406465/c-java-python-prefix-sum-clean-concise-o-1-space/ -->
 
-### Ques 4) prefix sum (even/odd).
+---
+Ques 4) prefix sum (even/odd).
 
-### Ques 5) Subarray sum equal to k (leet code 560).
+---
+Ques 5) Subarray sum equal to k (leet code 560).
 
-### Ques 6) same as ques 2. (plateform: scaler) (2d array) 
+---
+Ques 6) same as ques 2. (plateform: scaler) (2d array) 
 
 ---
 
@@ -64,18 +73,15 @@ LinkeList:
 - using 2 pointer approach (Fast & slow pointer).
 
 ---
-
 ### Ques2) Reverse linkedlist:  
 [Leetcode-206](https://leetcode.com/problems/reverse-linked-list/)
     this can be solved by using 3 pointer. (prev, current, next)
     
 ---
-
 ### Ques3) Detect the cycle in the Linkedlist:
 [Leetcode-141](https://leetcode.com/problems/linked-list-cycle/description/)
 
 ---
-
 ### Ques4) Detect & find the starting the index from where the loop start:
 [Leetcode-142](https://leetcode.com/problems/linked-list-cycle-ii/description/)
 
@@ -93,12 +99,11 @@ Stack:
 - top(), push(), pop(), peak(), isempty(), 
 
 ---
-
 Ques 1) Fibonacci Number: 
 [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 
 ---
-
+Note: 
 - Diff bet string & string buffer & string builder
 - .= & ==
 - overriding of constructor
@@ -109,19 +114,35 @@ Ques 1) Fibonacci Number:
 - array list & Linkedlist difference.
 
 ---
-
 Ques 2) implementing linkedlist using stack
 
 ---
-
 Ques 3) implementing stack using array.
 [GFG](https://www.geeksforgeeks.org/problems/implement-stack-using-array/1)
 
 ---
-
 Ques 4) Reverse the String using Stack
 [Leetcode](https://leetcode.com/problems/reverse-string/)
 
-
+---
 Ques 5) 
+
+---
+
+### Day 6: 13/08/2025
+
+Ques 1) Rotate array 
+[Leetcode 189](https://leetcode.com/problems/rotate-array/description/)
+
+---
+Ques 2) Search insert postion. 
+[Leetcode 35](https://leetcode.com/problems/search-insert-position/)
+
+---
+Ques 3) Kth node from end.
+[GFG](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
+
+---
+Ques 4) next greater element to right.
+
 
