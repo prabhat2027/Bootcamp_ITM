@@ -160,3 +160,42 @@ Ques 6) No: of times target element
 ---
 Ques 7) Search in rotated sorted array.
 [Leetcode 33](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+
+---
+
+## Day 7: 14/08/2025
+
+Hashing: hashing use array of bucket list to store data, 
+    size of hash is depend upon load factor,
+    it inculde hash function & collision. 
+
+hashing is a function which provide index of hash table.
+
+collision: since we use hash function to store element in hash table.
+    which basically use % works on remender to store elements at that index.
+
+here is a problem if more than 1 elements is having same rememder which store elements at same index..
+    so we use linkedlist to store more than 1 element but if element are more at same index, 
+ 
+we use sperate channing: which convert linkedlist into tree: for same index
+    so 
+
+---    
+NOTE: to handle collsion we use linkedlist & if element are hashing to same index then linkedlist is converted into tree. 
+
+Linear Probing: technoque to handle collision
+    if element is already present at a index then, then we do (k+1)%10.
+
+Load factor = no of element in hash table / total index in hash table
+
+---
+Ques 1) Sort colors
+[Leetcode 75](https://leetcode.com/problems/sort-colors/)
+
+---
+Ques 2) Product of array except self
+[Leetcode 238](https://leetcode.com/problems/product-of-array-except-self/description/)
+
+---
+Ques 3) Max Sunarray
+[Leetcode 53](https://leetcode.com/problems/maximum-subarray/)
