@@ -205,8 +205,37 @@ Ques 3) Max Sunarray
 
 Trees : 
 - A type of non linear Data Structure.
+- BFS traversal / Level Order Traversal
+- multi-threading
+- unordered Map
 
+~~~cpp
+#include <iostream>
+#include <unordered_map>
+using namespace std;
 
+int main() {
+    int arr[] = {2,3,2,4,5,12,2,3,3,4};
+    int n = sizeof(arr) / sizeof(arr[0]);
+
+    unordered_map<int, int> val;
+
+    for (int i = 0; i < n; i++) {
+        val[arr[i]]++;   
+    }
+
+    for (auto pair : val) {
+        cout << pair.first << " -> " << pair.second << endl;
+    }
+
+    return 0;
+}
+~~~
+
+Ques1) Count Complete Tree Nodes -
+[Leetcode 222](https://leetcode.com/problems/count-complete-tree-nodes/description/)
+
+ques2) 
 
 ## Day 9: 19/08/2025
 
@@ -215,3 +244,9 @@ Ques1) Max-Depth of Binary Tree -
 
 Ques2) Largest value in Each Row - 
 [Leetcode 515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+
+Ques3) same Tree -
+[leetCode 100](https://leetcode.com/problems/same-tree/)
+
+Ques4) Construct Binary Tree From Preorder and Inorder Traversal -
+[LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
