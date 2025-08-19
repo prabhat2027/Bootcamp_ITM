@@ -129,7 +129,7 @@ Ques 5)
 
 ---
 
-### Day 6: 13/08/2025
+## Day 6: 13/08/2025
 
 Ques 1) Rotate array 
 [Leetcode 189](https://leetcode.com/problems/rotate-array/description/)
@@ -199,3 +199,19 @@ Ques 2) Product of array except self
 ---
 Ques 3) Max Sunarray
 [Leetcode 53](https://leetcode.com/problems/maximum-subarray/)
+
+
+## Day 8: 18/08/2025
+
+Trees : 
+- A type of non linear Data Structure.
+
+
+
+## Day 9: 19/08/2025
+
+Ques1) Max-Depth of Binary Tree - 
+[Leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+
+Ques2) Largest value in Each Row - 
+[Leetcode 515](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
