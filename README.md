@@ -250,3 +250,30 @@ Ques3) same Tree -
 
 Ques4) Construct Binary Tree From Preorder and Inorder Traversal -
 [LeetCode 105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)
+
+## Day 11 : 21/08/2025
+
+-> Topic: Procedure programming / Object Oriented Programming in Java
+
+1. Inheritance
+2. Polymorphism
+3. Encapsulation 
+4. Method Overiding / overloading
+5. Constructors and Destructors
+
+-> java Code practices
+
+
+## Day 12 : 22/08/2025
+
+-> Topic : Java && SQL
+
+1. Exceptional Handling in Java
+2. Microservices / Mono Lithic
+
+-> SQL Basic
+
+1. Primary Key
+2. Drop / Truncate
+3. Inner Join / Left Join
+4. 
