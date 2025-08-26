@@ -249,3 +249,65 @@ Ques 36) Construct Binary Tree From Preorder and Inorder Traversal -
 2. Drop / Truncate
 3. Inner Join / Left Join
 4. 
+## Day 14 : 25/08/25
+
+Ques 1) - Swap Nodes in Pairs
+[LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
+
+Topic : SQL
+
+- Normalization
+- Group By
+- Order By
+- Having By
+
+
+Ques 1) - Recycable and Low fat Products
+[LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
+
+
+Day 13 :      
+
+Ques 1) - Find Customer referee
+[LeetCode 584](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)
+
+Ques 2) - Big Countries
+[LeetCode 595](https://leetcode.com/problems/big-countries/description/?envType=study-plan-v2&envId=top-sql-50)
+
+Ques 3) - Article View 1
+[LeetCode 1148](https://leetcode.com/problems/article-views-i/description/?envType=study-plan-v2&envId=top-sql-50)
+
+Ques 4) - Invalid Tweet
+[LeetCode 1683](https://leetcode.com/problems/invalid-tweets/?envType=study-plan-v2&envId=top-sql-50)
+
+Ques 5) - Replace Employee ID With The Unique Identifier
+[LeetCode 1378](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/?envType=study-plan-v2&envId=top-sql-50)
+
+
+## FullStack Interview Prep Topic for Freshers
+
+- Annotation
+- Scopr of Beans
+- Spring v/s Spring Boot
+- Starter Application of Spring Boot
+- Propogation of Transactional annotation
+- Dependency injection
+- Exception-handling
+- Structure of Spring Boot
+- RestAPi / gprc / Acutator
+
+## Java (Backend- Fresher)
+
+- JVM
+- Primitive vs Non-primitive
+- Encapsulation - getter-Setter-Access Modifiers
+- Abstraction vs Interface
+- is-a Relationship / has-a Relationship
+- super,static,final,finally(),volatile,Syncronised,try-catch, unit(),yeild(),Join(),notity,notity-all,sleep, equals(), ==
+- Functional Interface
+- String butter vs String, Arraylist vs LinkedList
+- Drop / Truncate, Leftjoin vs RightJoin
+- primar Key,Foriegn Key, unique Key
+- Collision, Hashtable
+- Internal Working of HashMap
+- ACID, Singleton
