@@ -14,13 +14,15 @@ Ques 1) sorting of array.
 
 Ques 2) sec largest element in an array.
 
-Ques 3) missing number in the series.
+Ques 3) missing number
+[LeetCode 268](https://leetcode.com/problems/missing-number/)
 
-Ques 4) move zeros.
+Ques 4) Move zeros
+[LeetCode 283](https://leetcode.com/problems/move-zeroes/)
 
-Ques 5) two sum.
+Ques 5) Two sum
+[LeetCode 1](https://leetcode.com/problems/two-sum/)
 
-above prob are being solved on leetcode.
 
 
 ## Day 2: 07/08/2025
@@ -33,17 +35,18 @@ Ques 6) Reverse an array:
 Ques 7) prefix Sum.
 
 
-Ques 8) leet code ques no:303. 
+Ques 8) Range Sum Query
+[LeetCode 303](https://leetcode.com/problems/range-sum-query-immutable/description/)
 
-Solition explanantion of leet code 303: -
+Solution explanantion of leet code 303: -
 <!-- https://leetcode.com/problems/range-sum-query-immutable/solutions/1406465/c-java-python-prefix-sum-clean-concise-o-1-space/ -->
 
 
 Ques 9) prefix sum (even/odd).
 
 
-Ques 10) Subarray sum equal to k (leet code 560).
-
+Ques 10) Subarray sum equal to k .
+[LeetCode 560](https://leetcode.com/problems/subarray-sum-equals-k/description/)
 
 Ques 11) same as ques 2. (plateform: scaler) (2d array) 
 
@@ -120,7 +123,9 @@ Ques 21) Search insert postion.
 Ques 22) Kth node from end.
 [GFG](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1)
 
-Ques 23) next greater element to right.
+Ques 23) next greater element to right
+[LeetCode 496](https://leetcode.com/problems/next-greater-element-i/description/)
+
 
 Ques 24)
 Binary Search: works on divide & conquer technique.
@@ -254,6 +259,11 @@ Ques 36) Construct Binary Tree From Preorder and Inorder Traversal -
 Ques 1) - Swap Nodes in Pairs
 [LeetCode 24](https://leetcode.com/problems/swap-nodes-in-pairs/)
 
+Ques 2) - Palindrome Number
+[LeetCode 9](https://leetcode.com/problems/palindrome-number/description/)
+
+
+
 Topic : SQL
 
 - Normalization
@@ -266,7 +276,7 @@ Ques 1) - Recycable and Low fat Products
 [LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
 
 
-## Day 13 : 26/08/25     
+## Day 15 : 26/08/25     
 
 Ques 1) - Find Customer referee
 [LeetCode 584](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)
@@ -313,6 +323,7 @@ Ques 5) - Replace Employee ID With The Unique Identifier
 - Internal Working of HashMap
 - ACID, Singleton
 - Session and cookies
+- 
 
 
 -- SQL LeetCode
@@ -322,4 +333,6 @@ Ques 7) - Product Sales Analysis
 
 Ques 8) - Customer Who Visited but Did not make any transaction
 [LeetCode 1581 ](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)
+
+
 
