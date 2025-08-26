@@ -266,7 +266,7 @@ Ques 1) - Recycable and Low fat Products
 [LeetCode 1757](https://leetcode.com/problems/recyclable-and-low-fat-products/description/?envType=study-plan-v2&envId=top-sql-50)
 
 
-Day 13 :      
+## Day 13 : 26/08/25     
 
 Ques 1) - Find Customer referee
 [LeetCode 584](https://leetcode.com/problems/find-customer-referee/?envType=study-plan-v2&envId=top-sql-50)
@@ -295,6 +295,7 @@ Ques 5) - Replace Employee ID With The Unique Identifier
 - Exception-handling
 - Structure of Spring Boot
 - RestAPi / gprc / Acutator
+- Session and cookies
 
 ## Java (Backend- Fresher)
 
@@ -311,3 +312,14 @@ Ques 5) - Replace Employee ID With The Unique Identifier
 - Collision, Hashtable
 - Internal Working of HashMap
 - ACID, Singleton
+- Session and cookies
+
+
+-- SQL LeetCode
+
+Ques 7) - Product Sales Analysis
+[LeetCode 1068](https://leetcode.com/problems/product-sales-analysis-i/?envType=study-plan-v2&envId=top-sql-50)
+
+Ques 8) - Customer Who Visited but Did not make any transaction
+[LeetCode 1581 ](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/?envType=study-plan-v2&envId=top-sql-50)
+
