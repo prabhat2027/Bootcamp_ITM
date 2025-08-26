@@ -323,7 +323,7 @@ Ques 5) - Replace Employee ID With The Unique Identifier
 - Internal Working of HashMap
 - ACID, Singleton
 - Session and cookies
-- 
+- JBDC and Result set
 
 
 -- SQL LeetCode
